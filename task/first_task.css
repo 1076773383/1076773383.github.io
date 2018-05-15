@@ -1,0 +1,12 @@
+body {
+	margin:0;
+}
+.wrap > div {
+	width:26%;
+	padding-bottom:26%;
+	border:1% solid;
+	background-color:orange;
+	border-radius:3%;
+	float:left;
+	margin:1%;
+}
